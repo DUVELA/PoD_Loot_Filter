@@ -86,7 +86,7 @@ ItemDisplay[tr2]: %NAME% //Scroll of Resistance
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ItemDisplay[GOLD<5000]: //Ignore Gold Drops Under X Amount (Default is 5000)
 //ItemDisplay[GOLD>0 CHARSTAT15>2499999]: //[Optional] Hide all gold when the Stash's capacity for gold is full.
-ItemDisplay[GOLD>0]: %NAME%
+
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                     ▬▬▬▬▬ [Optional] Rules for Ignoring Misc Items ▬▬▬▬▬                      ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
